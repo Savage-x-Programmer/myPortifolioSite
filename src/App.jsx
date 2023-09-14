@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Angel Perez Estevez",
-  title: "Software and Web Developer",
+  title: "Software Developer",
   email: "figeral14@outlook.com",
   gitHub: "Savage-x-Programmer",
   linkedIn: "satyanadella",
